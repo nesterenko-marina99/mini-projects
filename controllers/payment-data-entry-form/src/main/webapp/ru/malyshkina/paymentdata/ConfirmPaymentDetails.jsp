@@ -16,7 +16,7 @@
     Card number: ${param.cardNumber} <br>
     Expiration date: ${param.expirationDate} <br>
     CCV code: ${param.CCV}
-      <form action="index.jsp">
+      <form action="Controller.jsp">
       <input type="hidden" name="cardNumber" value="${param.cardNumber}">
       <input type="hidden" name="expirationDate" value="${param.expirationDate}">
       <input type="hidden" name="CCV" value="${param.CCV}">
