@@ -13,7 +13,7 @@
 <body>
 <p>
     Payment data entry form:
-<form action="Controller.jsp">
+<form action="ServletController">
     Card number:
     <input type="text" name="cardNumber" value="${param.cardNumber}"> <br>
     Expiration date:
