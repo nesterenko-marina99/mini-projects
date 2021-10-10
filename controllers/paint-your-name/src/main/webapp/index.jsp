@@ -6,7 +6,7 @@
     </head>
     <body>
         <p>
-            <form action="ru/malyshkina/paintname/Controller.jsp">
+            <form action="ru/paintyourname/ServletController/Controller">
                 Enter your first name, last name and patronymic: <br>
                 <label for="name">First name:</label>
                 <input type="text" id="name" name="firstName" value=""> <br>
